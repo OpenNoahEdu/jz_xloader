@@ -10,7 +10,7 @@
   */
 
 
- 
+
 #include <jz4740.h>
 #include <board.h>
 
@@ -67,7 +67,7 @@ static void pll_init(void)
     /* init PLL */
     REG_CPM_CPCCR = cfcr;
     REG_CPM_CPPCR = plcr1;
-    
+
 }
 
 /*
