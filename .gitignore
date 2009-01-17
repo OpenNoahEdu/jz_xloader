@@ -5,6 +5,9 @@ CVS
 *.rej
 *.bak
 *.d
+*.bin
+*.dump
+jz_xloader
 
 
 
